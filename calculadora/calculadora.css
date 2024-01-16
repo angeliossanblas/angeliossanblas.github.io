@@ -10,10 +10,13 @@
 #envio{
     margin-left: 15px;
     float:inline-start;
-    display: flex;
+    display: block;
     align-items: center;
 }
 
+.altura{
+    margin-right: 25px;
+}
 .altura{
     margin-right: 25px;
 }
