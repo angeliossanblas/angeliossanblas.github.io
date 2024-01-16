@@ -14,9 +14,12 @@
     align-items: center;
 }
 
-.altura{
+#altura{
     margin-right: 25px;
+    text-align: right;
 }
-.altura{
+#peso{
     margin-right: 25px;
+    text-align: right;
+
 }
